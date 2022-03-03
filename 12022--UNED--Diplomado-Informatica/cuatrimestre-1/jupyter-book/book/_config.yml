@@ -15,7 +15,7 @@ execute:
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - references.bib
+  - 00023-historia-de-la-cultura-g18/actividad-1/references.bib
 
 # Information about where the book exists on the web
 repository:
