@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: 00023 - Hist. de la Cultura
+    chapters:
+      - file: 00023-historia-de-la-cultura-g18/actividad-1/index
